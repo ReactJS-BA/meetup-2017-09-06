@@ -6,13 +6,18 @@ Este es un meetup en donde realizamos un repaso por REST API y luego comparamos 
 
 ## Temas
 *Repaso de API REST
+
 *Pensando en API REST y GraphQL
+
 *Comparando API REST y GraphQL
+
 *GraphQL
+
 *Ejemplo
 
 ## Contenido
 'presentation': Esta la presentación completa
+
 'example': Un ejemplo simple en React usando la librería Lokka para consultar un servicio GraphQL
 
 ## Video de la charla
@@ -20,5 +25,7 @@ Este es un meetup en donde realizamos un repaso por REST API y luego comparamos 
 
 ## Referencias
 [Facebook Specification for GraphQL](https://facebook.github.io/graphql/)
+
 [GraphQL A query language for your API](http://graphql.org/)
+
 [Thinking in graphq](https://facebook.github.io/relay/docs/thinking-in-graphql.html)
