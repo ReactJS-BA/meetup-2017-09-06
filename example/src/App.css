@@ -1,0 +1,58 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 50px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.App-dropdown  {
+  border-radius: 4px;
+  min-width: 200px;
+  padding:8px;
+}
+
+.App-ticket-square{
+  border-radius: 4px;
+  width: 600px;
+  padding:8px;
+  background-color: #ccc;
+  margin:10px auto
+}
+
+.App-li {
+  font-size: 14px;
+  padding-top: 10px;
+}
+
+.App-title {
+  font-weight:bold;
+  font-size:18px;
+  padding:10px;
+}
+
+.App-Title-Message {
+  padding-top: 10px;
+}
+
+.App-name, .App-date, .App-price {
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.App-price {
+  font-weight:bold;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
