@@ -19,6 +19,6 @@ Este es un meetup en donde realizamos un repaso por REST API y luego comparamos 
 [De API REST a GraphQL @ Hexacta - 6 de septiembre de 2017 vide](https://www.youtube.com/watch?v=o6t0uJSkm7w)
 
 ## Referencias
-[Facebook Specification for GraphQL](https://facebook.github.io/graphql/) 
-[GraphQL A query language for your API](http://graphql.org/) 
-[Thinking in graphq](https://facebook.github.io/relay/docs/thinking-in-graphql.html) 
+[Facebook Specification for GraphQL](https://facebook.github.io/graphql/)
+[GraphQL A query language for your API](http://graphql.org/)
+[Thinking in graphq](https://facebook.github.io/relay/docs/thinking-in-graphql.html)
